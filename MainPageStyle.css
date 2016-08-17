@@ -1,0 +1,13 @@
+h1 {
+	font-family: monospace;
+	font-size: 50px;
+	text-align: center;
+}
+
+.dadInWater {
+	display: block;
+	margin: auto;
+	height: 500px;
+	width: 400px;
+	padding: 30px;
+}
